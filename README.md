@@ -1,6 +1,5 @@
                                     
 ─────────────────✯ Welcome to Moderation Assistant ✯─────────────────
-                       Made by Aristotelhs#1406 
 
 ─────────────────✯ Steps for Setup ✯─────────────────
 
@@ -19,4 +18,4 @@ And here you are your Bot is ready to use!
 > Discord Bio: https://dsc.bio/aristotelhs
 > Discord: Aristotelhs#1406
 
-─────────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────
