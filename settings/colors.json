@@ -1,0 +1,11 @@
+{
+  "blue": "#33ccff",
+  "red": "#ff0000",
+  "ban": "#ff1a1a",
+  "kick": "#ff8000",
+  "mute": "#ff9933",
+  "unban": "#66ff33",
+  "unmute": "#66ff33",
+  "unwarn": "#66ff33",
+  "warn": "#ffff33"
+}
