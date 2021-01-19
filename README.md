@@ -13,11 +13,13 @@
 And here you are your Bot is ready to use!
 
 ─────────────────✯ My Social Media ✯─────────────────
-
 > Website: https://www.aristotelhs.me
-> GitHub: https://github.com/Aristotelhss
-> Instagram: https://www.instagram.com/telhs_papadhmhtriou/
-> Discord Bio: https://dsc.bio/aristotelhs
-> Discord: Aristotelhs#1406
 
+> GitHub: https://github.com/Aristotelhss
+
+> Instagram: https://www.instagram.com/telhs_papadhmhtriou/
+
+> Discord Bio: https://dsc.bio/aristotelhs
+
+> Discord: Aristotelhs#1406
 ─────────────────────────────────────────────────────────────────────────────────
