@@ -1,7 +1,4 @@
-                                    
-─────────────────✯ Welcome to Moderation Assistant ✯─────────────────
-
-─────────────────✯ Steps for Setup ✯─────────────────
+──────────────────✯ Steps for Setup ✯─────────────────
 > Step 1: Go to settings/secret.json and paste you Bot Token.
 
 > Stay 2: Stay at settings/secret.json and paste you MongoDB URL.
@@ -23,4 +20,7 @@ And here you are your Bot is ready to use!
 
 > Discord: Aristotelhs#1406
 
-─────────────────────────────────────────────────────────────────────────────────
+─────────────────✯ Author ✯─────────────────
+> Aristotelhs#1406
+
+───────────────────────────────────────────────────────────────────────────
