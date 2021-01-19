@@ -22,4 +22,5 @@ And here you are your Bot is ready to use!
 > Discord Bio: https://dsc.bio/aristotelhs
 
 > Discord: Aristotelhs#1406
+
 ─────────────────────────────────────────────────────────────────────────────────
