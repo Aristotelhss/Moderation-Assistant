@@ -1,5 +1,5 @@
 {
-  "name": "moderation-manager",
+  "name": "moderation-assistant",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aristotelhss/Moderation Manager.git"
+    "url": "git+https://github.com/Aristotelhss/Moderation-Assistant.git"
   },
   "author": "https://github.com/Aristotelhss",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aristotelhss/Moderation Manager/issues"
+    "url": "https://github.com/Aristotelhss/Moderation-Assistant/issues"
   },
-  "homepage": "https://github.com/Aristotelhss/Moderation Manager#readme",
+  "homepage": "https://github.com/Aristotelhss/Moderation-Assistant#readme",
   "dependencies": {
     "chalk@latest": "^4.1.0",
     "discord.js@latest": "^12.5.1",
