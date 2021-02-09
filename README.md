@@ -45,3 +45,16 @@ The only dependancy you need in this is ascii-table, simply run `npm i ascii tab
 
 **``2.3``** Starting up the bot <br>
 Start the bot up by running the command `node index.js` in the terminal. For more information please [click here](https://github.com/reconlx/discord.js-tutorials/tree/recon-handler#command-handler).
+
+## 📜 Commands
+```js
+ban [@user] [reason] - Ban the specified user.
+kick [@user] [reason] - Kick the specified user.
+unban [@user] [reason] - Unban the specified user.
+
+mute [@user] [length] [reason] - Mute the specified user.
+unmute [@user] [reason] - Unmute the specified user.
+
+warn [@user] [reason] - Warn the specified user.
+unwarn [@user] [id] [reason] - Unwarn the speicified user.
+warnings [@user] - See warnings speicified user.
