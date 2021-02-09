@@ -21,7 +21,7 @@
 ## 🛠 Setting up the bot 
 
 ### Installation
-###[1.0]### Installing Node.js<br>
+**``1.0]``** Installing Node.js<br>
 Click [here](https://nodejs.org/en/) to install node.js, it is required.<br>
 
 ###[1.1]### Installing Visual Studio Code<br>
