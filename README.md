@@ -63,3 +63,6 @@ unmute [@user] [reason] - Unmute the specified user.
 warn [@user] [reason] - Warn the specified user.
 unwarn [@user] [id] [reason] - Unwarn the speicified user.
 warnings [@user] - See warnings speicified user.
+
+## 📄 License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/reconlx/music-discord-bot/blob/main/LICENCE) file for details.
