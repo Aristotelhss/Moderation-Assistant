@@ -20,14 +20,14 @@
 
 ## 🛠 Setting up the bot 
 
-### (Installation)
++ Installation
 [1.0] Installing Node.js<br>
 Click [here](https://nodejs.org/en/) to install node.js, it is required.<br>
 
 [1.1] Installing Visual Studio Code<br>
 Click [here](https://code.visualstudio.com/) to install visual studio code, it is required to modify your current code.
 
-### (Initialising the bot)
++ Initialising the bot
 [2.0] Making an application <br>
 Click [here](https://discord.com/developers) to open discord developer portal. After that create an application
 
