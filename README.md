@@ -1,24 +1,26 @@
-──────────────────✯ Steps for Setup ✯─────────────────
-> Step 1: Go to settings/secret.json and paste you Bot Token.
+<p align="center">
+  <img width="256" height="256" src="https://i.imgur.com/dlD8uJc.png?size=512">
+</p>
+  
+<h3 align="center">Music Discord BOT!</h3>
 
-> Stay 2: Stay at settings/secret.json and paste you MongoDB URL.
+<div align="center">
 
-> Step 3: Go to settings/config.json and select the prefix you want.
+</div>
 
-> Step 4: Now go to your Terminal and do the command "node main.js" or "node .".
+---
 
-And here you are your Bot is ready to use!
+<p align="center"> Music discord bot, play music in discord voice channels
+    <br> 
+</p>
 
-─────────────────✯ My Social Media ✯─────────────────
-> Website: https://www.aristotelhs.me
 
-> GitHub: https://github.com/Aristotelhss
+## 📝 Table of Contents 
 
-> Instagram: https://www.instagram.com/telhs_papadhmhtriou/
++ [Watch my youtube video on how to set it up by clicking here](https://youtu.be/P17_XEUgPfU)
++ [Setting up the bot](https://github.com/reconlx/music-discord-bot/blob/main/README.md#-setting-up-the-bot)
++ [Commands](https://github.com/reconlx/music-discord-bot/blob/main/README.md#-commands)
++ [License](https://github.com/reconlx/music-discord-bot/blob/main/LICENCE)
++ Follow my [github](https://github.com/reconlx) for more cool content
 
-> Discord Bio: https://dsc.bio/aristotelhs
-
-> Discord: Aristotelhs#1406
-
-─────────────────✯ Author ✯─────────────────
-> Aristotelhs#1406
+## 🛠 Setting up the bot 
