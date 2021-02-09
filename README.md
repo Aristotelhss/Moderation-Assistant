@@ -45,6 +45,3 @@ The only dependancy you need in this is ascii-table, simply run `npm i ascii tab
 
 **``2.3``** Starting up the bot <br>
 Start the bot up by running the command `node index.js` in the terminal. For more information please [click here](https://github.com/reconlx/discord.js-tutorials/tree/recon-handler#command-handler).
-
-### (The bot is up and running)
-Congrats if the bot is up and running if its not and you face error you can get support by joining our discord server. [Click here to join](https://discord.gg/xCCpfth).
