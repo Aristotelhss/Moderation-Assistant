@@ -66,4 +66,6 @@ warnings [@user] - See warnings speicified user.
 ```
 
 ## 📄 License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/reconlx/music-discord-bot/blob/main/LICENCE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/LICENSE) file for details.
+
+©[Aristotelhs](https://github.com/Aristotelhss)
