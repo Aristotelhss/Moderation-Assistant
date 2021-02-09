@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center"> Music discord bot, play music in discord voice channels
+<p align="center"> Discord Moderation Bot + MongoDB Database, written in JavaScript - Using discord.js, chalk, ms, mongoose. Has many features including: Ban, Kick, Warnings and much more!
     <br> 
 </p>
 
