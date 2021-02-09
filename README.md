@@ -21,17 +21,17 @@
 ## 🛠 Setting up the bot 
 
 ### Installation
-**``1.0``** Installing Node.js<br>
+**``1.0``** **Installing Node.js**<br>
 Click [here](https://nodejs.org/en/) to install node.js, it is required.<br>
 
-**``1.1``** Installing Visual Studio Code<br>
+**``1.1``** **Installing Visual Studio Code**<br>
 Click [here](https://code.visualstudio.com/) to install visual studio code, it is required to modify your current code.
 
 ### Initialising the bot
-**``2.0``** Making an application <br>
+**``2.0``** **Making an application** <br>
 Click [here](https://discord.com/developers) to open discord developer portal. After that create an application
 
-**``2.0.1``** ### Making a bot <br>
+**``2.0.1``** **Making a bot** <br>
 When you have already created an application, create a bot. After that get the bot's token. Remmember don't share the token with anyone.
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/728829095013515294/734288747050303519/Untitled_Artwork.jpg?size=512">
