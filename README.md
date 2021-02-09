@@ -15,8 +15,8 @@
 
 + [Setting up the bot](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-setting-up-the-bot)
 + [Commands](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-commands)
-+ [License](https://github.com/reconlx/music-discord-bot/blob/main/LICENCE)
-+ Follow my [github](https://github.com/reconlx) for more cool content
++ [License](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/LICENSE)
++ [GitHub](https://github.com/Aristotelhss)
 
 ## 🛠 Setting up the bot 
 
