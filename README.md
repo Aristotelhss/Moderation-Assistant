@@ -39,16 +39,16 @@ When you have already created an application, create a bot. After that get the b
 </p>
 
 **``2.1``** **Editing settings/secret.json** <br>
-+ Open the downloaded repo folder with visual studio code and locate **settings/secret.json**, after that replace **token** with your bot's token. If you place your Bot token now place your MongoDB URL in **mongo_url**.
+Open the downloaded repo folder with visual studio code and locate `settings/secret.json`, after that replace `token` with your bot's token. If you place your Bot token now place your MongoDB URL in `mongo_url`.
 
 **``2.2``** **Editing settings/config.json** <br>
-+ Open the downloaded repo folder with visual studio code and locate **settings/secret.json**, after that replace **prefix** with your bot's prefix.
+Open the downloaded repo folder with visual studio code and locate `settings/secret.json`, after that replace `prefix` with your bot's prefix.
 
 **``2.3``** **Installing dependancies** <br>
-+ The only dependancy you need in this is Discord Bot, simply run `npm i discord.js`, `npm i mongoose`, `npm i chalk`, `npm i ms` in the terminal.
+The only dependancy you need in this is Discord Bot, simply run `npm i discord.js`, `npm i mongoose`, `npm i chalk`, `npm i ms` in the terminal.
 
 **``2.4``** **Starting up the bot** <br>
-+ Start the bot up by running the command `node main.js` in the terminal.
+Start the bot up by running the command `node main.js` in the terminal.
 
 ## 📜 Commands
 ```js
