@@ -50,9 +50,8 @@ The only dependancy you need in this is Discord Bot, simply run `npm i discord.j
 **``2.4``** **Starting up the bot** <br>
 Start the bot up by running the command `node main.js` in the terminal.
 
-## 📜 Commands
+## 📜 Moderation Commands
 ```js
-
 ban [@user] [reason] - Ban the specified user.
 kick [@user] [reason] - Kick the specified user.
 unban [@user] [reason] - Unban the specified user.
@@ -63,6 +62,11 @@ unmute [@user] [reason] - Unmute the specified user.
 warn [@user] [reason] - Warn the specified user.
 unwarn [@user] [id] [reason] - Unwarn the speicified user.
 warnings [@user] - See warnings speicified user.
+```
+
+## 💡 General Commands
+```js
+help - See the list of available orders.
 ```
 
 ## 📄 License
