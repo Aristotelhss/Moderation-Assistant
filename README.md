@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://i.imgur.com/BnzbM3a.png?size=1024">
+  <img width="256" height="256" src="https://i.imgur.com/BnzbM3a.png?size=2000">
 </p>
 
 <h3 align="center">Moderation Assistant</h3>
