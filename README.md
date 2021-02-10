@@ -19,7 +19,7 @@
 
 + [Setting up the bot](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-setting-up-the-bot)
 + [Moderation Commands](https://github.com/Aristotelhss/Moderation-Assistant#-moderation-commands)
-+ [General Commands](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-commands)
++ [General Commands](https://github.com/Aristotelhss/Moderation-Assistant#-general-commands)
 + [License](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/LICENSE)
 + [GitHub](https://github.com/Aristotelhss)
 
