@@ -18,7 +18,8 @@
 ## 📝 Table of Contents 
 
 + [Setting up the bot](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-setting-up-the-bot)
-+ [Commands](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-commands)
++ [General Commands](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-commands)
++ [Music Commands](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/README.md#-commands)
 + [License](https://github.com/Aristotelhss/Moderation-Assistant/blob/main/LICENSE)
 + [GitHub](https://github.com/Aristotelhss)
 
